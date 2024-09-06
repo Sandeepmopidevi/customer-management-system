@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customer-management-system/static/css/main.e6c13ad2.css",
+    "main.js": "/customer-management-system/static/js/main.1e30ce79.js",
+    "index.html": "/customer-management-system/index.html",
+    "main.e6c13ad2.css.map": "/customer-management-system/static/css/main.e6c13ad2.css.map",
+    "main.1e30ce79.js.map": "/customer-management-system/static/js/main.1e30ce79.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e30ce79.js"
+  ]
+}
